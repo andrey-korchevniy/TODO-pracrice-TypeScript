@@ -1,6 +1,6 @@
 {
   "homepage": "https://andrey-korchevniy.github.io/TODO-practice-TypeScript",
-  "name": "TODO-practice-TypeScript",
+  "name": "todo-practice-typescript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
