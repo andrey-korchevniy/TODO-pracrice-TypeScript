@@ -1,6 +1,6 @@
 {
-  "homepage": "https://andrey-korchevniy.github.io/my-app",
-  "name": "my-app",
+  "homepage": "https://andrey-korchevniy.github.io/TODO-pracrice-TypeScript",
+  "name": "TODO-pracrice-TypeScript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
