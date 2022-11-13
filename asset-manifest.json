@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-practice-typescript/static/css/main.e6c13ad2.css",
+    "main.js": "/todo-practice-typescript/static/js/main.cccc99c4.js",
+    "index.html": "/todo-practice-typescript/index.html",
+    "main.e6c13ad2.css.map": "/todo-practice-typescript/static/css/main.e6c13ad2.css.map",
+    "main.cccc99c4.js.map": "/todo-practice-typescript/static/js/main.cccc99c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cccc99c4.js"
+  ]
+}
